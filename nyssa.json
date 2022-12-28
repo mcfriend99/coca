@@ -2,7 +2,7 @@
   "name": "cocoa", 
   "version": "1.0.0", 
   "description": "HTML to Blade and Blade to HTML converter.", 
-  "homepage": "", 
+  "homepage": "https://github.com/mcfriend99/cocoa", 
   "tags": [
     "html", 
     "blade", 
